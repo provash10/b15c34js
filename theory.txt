@@ -1,0 +1,10 @@
+Class 34 @JS DOM Events
+==========================
+function sum(){
+    let x = 10;
+    let y = 20;
+    let result = x+y;
+    return result;
+}
+
+console.log(sum());
